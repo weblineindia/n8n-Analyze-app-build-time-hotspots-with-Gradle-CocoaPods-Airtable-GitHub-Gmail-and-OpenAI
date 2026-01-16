@@ -1,0 +1,2 @@
+# n8n-Analyze-app-build-time-hotspots-with-Gradle-CocoaPods-Airtable-GitHub-Gmail-and-OpenAI
+Pinpoint slowdowns in mobile app CI builds before they become blockers. This n8n workflow automation template analyzes Gradle and CocoaPods build times, compares them with historical Airtable data, uses AI to detect regressions and reports hotspots via GitHub PR comments and email alerts through a focused n8n workflow.
